@@ -1,0 +1,44 @@
+h1 {
+    color: rgba(0, 255, 0, 1)
+}
+h2{
+    color: rgba(100, 0, 100, .6);
+    /* background-color: whitesmoke; */
+    width: 40%
+}
+h3{
+    color: rgba(10, 138, 212, 0.4);
+    background-color: aquamarine
+}
+h4{
+    color: rgba(70, 34, 48, 0.2);
+    background-color: antiquewhite
+}
+body{
+    background-color: rgb(150, 150, 150)
+    
+}
+div{
+    background-color: gold;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 
+  inset 5px 5px 10px black, 
+  inset -5px -5px 10px powderblue;
+  margin-bottom: 10px
+}
+.uba{
+    background-color: red;
+    
+}
+span{
+    color: whitesmoke
+}
+.access{
+    background-color: aqua
+}
+.eco{
+    background-color: cadetblue
+
+}
